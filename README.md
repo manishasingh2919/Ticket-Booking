@@ -1,3 +1,3 @@
-# Design-Patterns
+# Ticket- Booking
 
-Repository to practice popular design patterns
+Repository to store Ticket Booking App
